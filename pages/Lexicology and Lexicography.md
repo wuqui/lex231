@@ -1,1 +1,7 @@
-- foo
+- Quirin Würschinger
+- Wintersemester 2023/24
+- website: https://www.wuqui.github.io/lex231
+- sessions
+	- [[01 Organisation and introduction]]
+	- [[02 foo]]
+	- [[03 bar]]
