@@ -1,16 +1,82 @@
 - organisation
+	- introduction
+		- What’s your background?
+		- What interests you about lexis?
 	- registration
 	- materials
 	  collapsed:: true
 		- ((65426ad4-e36e-41aa-8466-9b3556b4f770))
 		- [[bibliography]]
-	- [[requirements]]
+	- requirements
 	  collapsed:: true
 		- {{embed [[requirements]]}}
 		- [[course schedule]]
 		  collapsed:: true
 			- {{embed [[course schedule]]}}
+	- course description
+	  collapsed:: true
+		- {{embed [[course description]]}}
+	- schedule
+	  collapsed:: true
+		- {{embed [[course schedule]]}}
 - introduction to lexicology and lexicography
 	- [[lexicology]]
+		- definition of *word*
+		-
+		- objective of lexicology
+			- ((65426e70-9163-44c7-845e-f8620bba56a7))
+		- what is the *lexicon*
+			- two sense
+				- ((65427395-0bec-45e5-96df-acc2a33e536d))
+			- dimensions of structure in the lexicon
+				- paradigmatic vs syntagmatic
+					- ((65427d85-d8e7-4b95-abca-f699ed24078a))
+				- internal vs external
+					- ((65427fa0-1844-4a45-8f57-245483e032ff))
+			-
+		- the function of lexicology in language
+			- ((6542743b-f510-4190-a295-fe54436f31d7))
+		- form and meaning
+			- Saussure
+		- word-formation
+			- word-formation vs inflection
+			- morphemic word-formation
+			- non-morphemic word-formation
+		- meaning
+			- connotation and denotation
+			- reference
+			- lexical relations
+				- paradigmatic
+					- ((65427ed2-14e4-4f54-a1e1-ee1e686eeb6a))
+				- syntagmatic
+					- definition
+						- ((65427e11-e2cd-44a3-9ef7-4dcd76a05a6b))
+					- idioms
+					- collocations
+				- paradigmatic vs syntagmatic
+					- ((65427ef4-81da-4ce9-a846-03de8a1505e3))
+				- polysemy vs homonymy
+		- change
+			- change
+				- ((65428629-8dba-4540-9304-5a4bbc5ff43e))
+			- innovation
+		- variation
+			- the importance of variation
+				- ((65427192-ad8c-47b7-b451-1a6f6544f72b))
+			- dimensions of variation
+				- overview
+					- ((6542869f-aa64-4e84-81d8-b484008a566a))
+				- individuals
+					- idiolect
+						- ((65427fa0-1844-4a45-8f57-245483e032ff))
+					- speaker groups
+						- dialect
+							- ((65428353-1d92-4692-8637-1a5292d2038c))
+						- [[sociolect]]
+							- ((6542846e-6dc2-411b-b715-cd318df3288b))
+					- situational variation
+						- register
+							- ((65428396-7109-446e-b087-79b3a398b383))
+			- regional
 	- [[lexicography]]
 - using [dictionaries]([[dictionary]]) for studying lexis

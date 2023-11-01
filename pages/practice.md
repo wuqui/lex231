@@ -1,0 +1,1 @@
+- Compare [dictionaries]([[dictionary]]): What types of information do they provide
