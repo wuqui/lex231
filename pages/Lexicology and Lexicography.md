@@ -9,3 +9,4 @@
 - [[course schedule]]
 	- {{embed ((654237e2-bca6-4067-8402-044fd4cf7368))}}
 - [[bibliography]]
+- [[requirements]]

@@ -1,9 +1,9 @@
 - organisation
-	- [[course schedule]]
 	- materials
-		- [[Logseq]] intro
+	- [[course schedule]]
 	- [[requirements]]
-- introduction
+	- [[Logseq]] intro
+- introduction to lexicology and lexicography
 	- [[lexicology]]
 	- [[lexicography]]
-	- [[dictionary]]
+- using [dictionaries]([[dictionary]]) for studying lexis

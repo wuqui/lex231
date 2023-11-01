@@ -1,0 +1,1 @@
+- ![modulpruefung-infos.pdf](../assets/modulpruefung-infos_1698848428098_0.pdf)

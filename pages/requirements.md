@@ -1,0 +1,9 @@
+- active participation: $\leq 2$ absences
+- assessment
+	- 3 ECTS
+		- [[short paper]]
+	- 6 ECTS:
+		- [[long paper]]
+	- 9 ECTS: [[Modulprüfung]]
+		- [[presentation]]
+		- [[long paper]]
