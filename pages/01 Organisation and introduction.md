@@ -1,0 +1,9 @@
+- organisation
+	- [[course schedule]]
+	- materials
+		- [[Logseq]] intro
+	- [[requirements]]
+- introduction
+	- [[lexicology]]
+	- [[lexicography]]
+	- [[dictionary]]
