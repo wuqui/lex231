@@ -21,6 +21,7 @@
 	  collapsed:: true
 		- {{embed [[course schedule]]}}
 - introduction to lexicology and lexicography
+  collapsed:: true
 	- What is lexicology about?
 	  collapsed:: true
 		- What is a *word*?
@@ -180,9 +181,12 @@
 			  collapsed:: true
 				- ![covfefe.jpg](../assets/covfefe_1698948489765_0.jpg)
 	- variation
+	  collapsed:: true
 		- the importance of variation
+		  collapsed:: true
 			- ((65427192-ad8c-47b7-b451-1a6f6544f72b))
 		- dimensions of variation
+		  collapsed:: true
 			- overview
 			  collapsed:: true
 				- [[Kortmann2020English]]
@@ -192,25 +196,32 @@
 				  collapsed:: true
 					- ((6542869f-aa64-4e84-81d8-b484008a566a))
 			- speaker groups
+			  collapsed:: true
 				- regional variation
+				  collapsed:: true
 					- dialect
+					  collapsed:: true
 						- ((65428353-1d92-4692-8637-1a5292d2038c))
 					- [[Grieve2018MappingLexical]]
+					  collapsed:: true
 						- ![lexical-innovation.png](../assets/lexical-innovation_1698948545880_0.png)
 				- [[sociolect]]
+				  collapsed:: true
 					- ((6542846e-6dc2-411b-b715-cd318df3288b))
 			- situational variation
+			  collapsed:: true
 				- register
+				  collapsed:: true
 					- ((65428396-7109-446e-b087-79b3a398b383))
 - [[practice]]: using [dictionaries]([[dictionary]]) for studying lexis
+  collapsed:: true
 	- Which types of lexical information can you find in the [[OED]]?
+	  collapsed:: true
 		- usage (frequency): increases or decreases
 		- phonology
 		- morphology
 		- semantics
 		- sociolinguistics
-		  collapsed:: true
 			- *bro*
 		- register
-		  collapsed:: true
 			- *to furlough*
