@@ -416,4 +416,6 @@
  :ui/show-brackets? false
  :feature/enable-timetracking? false
  :publishing/all-pages-public? true
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? false
+ :zotero/settings-v2 {"default" {:type-id "1408162"}}
+ :editor/preferred-pasting-file? true}

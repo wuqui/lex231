@@ -23,8 +23,10 @@ type:: [[book]]
 				- [[syntagmatic relations]]
 				- [[word-formation]]
 			- [[definition]]
-				- “In the following, I will use lexicon in two senses that are not always sharply distinguished: a) for a metalinguistic level, or a subcomponent in a linguistic model (basically compatible with a variety of theories of language); and b) in the sense of vocabulary as seen from a systematic, synchronic point of view.” (Lipka, 1992, p. 11)
+				- “In the following, I will use lexicon in two senses that are not always sharply distinguished: 
 				  id:: 65427395-0bec-45e5-96df-acc2a33e536d
+					- a) for a metalinguistic level, or a subcomponent in a linguistic model (basically compatible with a variety of theories of language); and
+					- b) in the sense of vocabulary as seen from a systematic, synchronic point of view.” (Lipka, 1992, p. 11)
 		- the role of [[lexicology]] in language
 			- ![image.png](../assets/image_1698853966142_0.png)
 			  id:: 6542743b-f510-4190-a295-fe54436f31d7
@@ -61,6 +63,7 @@ type:: [[book]]
 					- “We now come to varieties of English and their relevance for the lexicon (cf. Quirk et al. 1985:15 ff.). We have already seen in diagram (2 that the vocabulary of English is far from being homogeneous. This also holes for other linguistic levels. It will immediately become clear that no language ipproaches the completely homogeneous system postulated by many linguistic tleories and models.” (Lipka, 1992, p. 20)
 					- [[idiolect]]
 						- “We now come to varieties of English and their relevance for the lexicon (cf. Quirk et al. 1985:15 ff.). We have already seen in diagram (2 that the vocabulary of English is far from being homogeneous. This also holes for other linguistic levels. It will immediately become clear that no language ipproaches the completely homogeneous system postulated by many linguistic tleories and models.” (Lipka, 1992, p. 20)
+						  id:: 65428323-c4fb-484b-806c-f790f2f8894f
 					- [[dialect]]
 						- “As opposed to this, dialect is the language form of a particular group of speakers. The term dialect is currently often used in a broad sense, i.e. both for a regional, geographical variety, as well as for a social subclass of a speech community (cf. Wachtler 1977:37-45). The neutral term variety is frequently preferred today since it lacks the negative connotations, or shades of meaning, of dialect. Sometimes a tenriinological distinction is made between dialect, used for the regional varieties (cf. Quirk et al. 1985 :16), and social dialect, or socialclass dialect, for the language of a socially determined group of speakers.” (Lipka, 1992, p. 22)
 						  id:: 65428353-1d92-4692-8637-1a5292d2038c
