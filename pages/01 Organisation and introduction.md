@@ -1,10 +1,10 @@
 - organisation
-  collapsed:: true
 	- registration
 	  collapsed:: true
 		- open issues?
 		- [[Modulprüfung]]?
 	- introduction
+	  collapsed:: true
 		- What’s your background?
 		- What interests you about lexis?
 		  collapsed:: true

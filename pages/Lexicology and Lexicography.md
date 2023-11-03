@@ -3,7 +3,7 @@
   LMU Munich
   Wintersemester 2023/24
   #+END_QUOTE
-- course website: https://www.wuqui.github.io/lex231
+- course website: https://wuqui.github.io/lex232
   id:: 65426ad4-e36e-41aa-8466-9b3556b4f770
 - [[course description]]
   id:: 65424539-5c30-4def-bbda-39da8bac6c82
