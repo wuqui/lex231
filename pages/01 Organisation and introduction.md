@@ -5,7 +5,6 @@
 	- introduction
 		- What’s your background?
 		- What interests you about lexis?
-			- {{renderer excalidraw, excalidraw-2023-11-01-18-53-36}}
 	- materials
 		- ((65426ad4-e36e-41aa-8466-9b3556b4f770))
 		- [[bibliography]]
