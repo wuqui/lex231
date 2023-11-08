@@ -251,6 +251,7 @@
  :editor/preferred-pasting-file? true
  :ui/show-brackets? false
  :ui/auto-expand-block-refs? false
+ :publishing/all-pages-public? true
 
  ;; Mobile photo uploading setup
  ;; :mobile/photo
