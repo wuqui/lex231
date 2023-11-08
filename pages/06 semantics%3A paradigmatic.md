@@ -1,0 +1,34 @@
+- The Linguistic Triangle ([[Ogden1923Meaning]])
+  collapsed:: true
+	- ![image.png](../assets/image_1698949528283_0.png)
+	  id:: 6544372d-c654-4fa9-a9c2-9fbaebee101c
+- [[lexical relations]]
+  collapsed:: true
+	- overview
+		- ![semantic-relations-overview.png](../assets/semantic-relations-overview_1698949387136_0.png)
+	- paradigmatic
+		- ((65427ed2-14e4-4f54-a1e1-ee1e686eeb6a))
+	- syntagmatic
+		- definition
+			- ((65427e11-e2cd-44a3-9ef7-4dcd76a05a6b))
+	- [[paradigmatic relations]] vs [[syntagmatic relations]]
+		- ((65427ef4-81da-4ce9-a846-03de8a1505e3))
+	- [[collocations]] and [[idioms]]
+		- ![collocations-vs-idioms.png](../assets/collocations-vs-idioms_1698949088595_0.png)
+	- [[practice]]: [[lexical relations]]
+		- *give* – *receive*
+			- directional opposites
+		- *freedom* – *liberty*
+			- synonyms (descriptive)
+		- *poor* – *rich*
+			- antonyms: polar
+		- *peace* – *war*
+			- antonyms: complementary
+		- *car* – *convertible*
+			- hyperonym – hyponym
+		- *house* – *cottage* – *palace*
+			- co-hyponyms of *building*
+		- *clear* – *conscience*
+			- collocation
+		- *It costs an arm and a leg.*
+			- idiom
