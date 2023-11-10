@@ -1,3 +1,4 @@
+- recorded presentation
 - **topic**: your research project for the [[term paper/long]]
 - **due**: between the end of the semester and the submission of you [[term paper/long]]
 - → **feedback** for finishing your [[term paper/long]]
