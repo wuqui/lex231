@@ -58,7 +58,6 @@
 					- ![image.png](../assets/image_1698948017991_0.png)
 		- objective of lexicology
 		  id:: 654287ed-518d-4b83-bd3f-7f317c646ca8
-		  collapsed:: true
 			- ((65426e70-9163-44c7-845e-f8620bba56a7))
 	- What is the *lexicon*?
 	  collapsed:: true
