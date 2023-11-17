@@ -1,35 +1,26 @@
 - organisation
-  collapsed:: true
 	- registration
-	  collapsed:: true
 		- open issues?
 		- [[Modulprüfung]]?
 	- introduction
-	  collapsed:: true
 		- What’s your background?
 		- What interests you about lexis?
 	- materials
-	  collapsed:: true
 		- ((65426ad4-e36e-41aa-8466-9b3556b4f770))
 		- [[bibliography]]
 	- requirements
-	  collapsed:: true
 		- {{embed [[requirements]]}}
 	- course description
-	  collapsed:: true
 		- {{embed [[course description]]}}
 	- course schedule
-	  collapsed:: true
 		- {{embed [[course schedule]]}}
 - introduction to lexicology and lexicography
 	- What is lexicology about?
 		- What is a *word*?
 			- How many words?
 			  id:: 6544372d-42ba-4fbd-a0e2-7d47bec15009
-			  collapsed:: true
 				- *Paul was drinking beer in his favorite bar. He enjoyed having a drink every now and then. He thought he did not drink much, but his wife thought that he drank.*
 					- 31?
-					  collapsed:: true
 						- |   | Type    | Token      |
 						  |---|---------|------------|
 						  | 1 | DRINK$^v$ | *drinking* |
@@ -45,22 +36,18 @@
 					- [[tokens]]
 						- concrete instantiations of types in running text, commonly delimited by whitespace
 			- Model of the linguistic sign ([[deSaussure1916Cours]])
-			  collapsed:: true
 				- ![image.png](../assets/image_1698947928175_0.png)
 				- types of signs ([[Keller1994Sprachwandel]])
-				  collapsed:: true
 					- index
 					- icon
 					- symbol
 			- What is the function of words in communication?
-			  collapsed:: true
 				- Organon model ([[Buhler1934Sprachtheorie]])
 					- ![image.png](../assets/image_1698948017991_0.png)
 		- objective of lexicology
 		  id:: 654287ed-518d-4b83-bd3f-7f317c646ca8
 			- ((65426e70-9163-44c7-845e-f8620bba56a7))
 	- What is the *lexicon*?
-	  collapsed:: true
 		- two senses of *lexicon*
 		  id:: 6544372d-dec9-47cb-ab66-644834726315
 			- {{embed ((65427395-0bec-45e5-96df-acc2a33e536d))}}
@@ -72,7 +59,6 @@
 		- the function of lexicology in language
 			- ((6542743b-f510-4190-a295-fe54436f31d7))
 - [[practice]]: using [dictionaries]([[dictionary]]) for studying lexis
-  collapsed:: true
 	- Which types of lexical information can you find in the [[OED]]?
 		- [[phonology]]
 			- pronunciation

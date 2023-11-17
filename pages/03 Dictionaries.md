@@ -1,5 +1,4 @@
 - the lexicon
-  collapsed:: true
 	- two senses of *lexicon*
 		- {{embed ((6544372d-dec9-47cb-ab66-644834726315))}}
 	- objective of lexicology
@@ -36,25 +35,20 @@
 		- Freudian slip ([[Bauer2022Introduction]])
 			- > > If you talk to someone about electricity, and then make them read the phrase *sham dock*, they might very well say *damn shock*, because of the prior activation of words associated with electricity; and the phenomenon of the Freudian slip depends upon a subject area being readily activated in the brain, and brought out invertently, whether because of a word related in meaning or related in pronunciation.
 - [dictionaries]([[dictionary]]) ([[Bauer2022Introduction]])
-  collapsed:: true
 	- What is a word?
-	  collapsed:: true
 		- {{embed ((65491e9b-279c-4c64-8449-bb9887725e8b))}}
 		- {{embed ((65491fa0-8899-4988-b352-35206d19517c))}}
 	- [[definition]]
-	  collapsed:: true
 		- > The term ‘dictionary’ is usually restricted to real-world dictionaries that appear in print and online. Dictionaries provide a list of words of whatever language they deal with — in our case, English — and then give a certain amount of information about each of them. Dictionaries tend to have two functions, which may, on occasions, conflict with each other:
 			- > to describe the language as it is,
 			- > and to provide an influence for establishing and maintaining the standard form of the language.
 	- [[descriptivism]] vs [[prescriptivism]]
-	  collapsed:: true
 		- > If we assume that one of *ˈkilometre* and *kiˈlometre* is right (and the other, therefore, wrong), we assume that there is a **unique solution** to this question of English usage.
 			- > We assume that it is a question like *Should you drive on the right or on the left in England?* where there is a single solution laid down by law.
 			- > We assume it is not like *Should I wear jeans to the party tonight?* where the answer may depend on your age, the dress code for the party, how good you think you look in jeans, whether you prefer to be underdressed or overdressed for any occasion, what else you have to wear, the kind of party that is involved, where the party is being held and so on.
 		- > Language questions are more often like the jeans queston, and less often like the driving-side question. Whatever answer the person you have asked gives you, there will be somebody else, apparently equally authoritative, who will give you a different answer.
 		- ![prescriptive.jpg](../assets/prescriptive_1699480345055_0.jpg)
 	- proof of the existence of words
-	  collapsed:: true
 		- > First of all, dictionaries provide evidence of the existence of a word. The fact that a word is listed in a dictionary at all is taken to prove that there is such a word. This can be misleading in two ways.
 			- > From time to time, dictionaries **list words erroneously**, and the word has no existence outside the dictionary. The OED gives a list of such spurious words including *banket* (‘a term in bricklaying’), *David's staff* (‘a navigational instrument) and *sardel*, variously supposed to be a fish (the sardine) or a precious stone.
 			- > Dictionaries far more often **fail to list perfectly good words**. This is inevitable. No dictionary can list every word of English
@@ -62,7 +56,6 @@
 			- Which words are commonly used (in corpora), but not contained in dictionaries?
 			- Which words are contained in dictionaries, but are not commonly used (in corpora)?
 	- information provided
-	  collapsed:: true
 		- example: *bro* in the [[OED]]
 			- ![image.png](../assets/image_1699480538583_0.png)
 		- spelling
@@ -73,7 +66,6 @@
 		- examples of usage
 		- etymology
 	- dictionaries
-	  collapsed:: true
 		- overview
 		- [[Urban Dictionary]]
 			- https://www.urbandictionary.com/
@@ -93,7 +85,6 @@
 			- advanced search
 				- ![image.png](../assets/image_1700086248403_0.png)
 - [[practice]]: investigating lexical innovation since 2000 using the [[OED]]
-  collapsed:: true
 	- use the advanced search to find all lexemes whose first use is after 2000
 		- ![image.png](../assets/image_1700133799936_0.png)
 	- export the results to a `csv` file
@@ -102,10 +93,11 @@
 			- Which word-formation processes are most frequent?
 			- Which word classes are most frequent?
 			- Which subject areas are most frequent?
-		- create a `Table` containing the data
-			- select the region containing the data
-			- click on `Insert Table`
-		- create a `Pivot Table` to analyse the data
-			- see demo
+		- steps
+			- create a `Table` containing the data
+				- select the region containing the data
+				- click on `Insert Table`
+			- create a `Pivot Table` to analyse the data
+				- see demo
 		- model file: https://1drv.ms/x/s!AvkgNVl9yS6aoX4YgazKPYZGog54
 	-
