@@ -58,7 +58,6 @@
 			- Which words are contained in dictionaries, but are not commonly used (in corpora)?
 	- information provided
 	  id:: 654a60d8-23e3-4ff7-bef4-2456ff047eb3
-	  collapsed:: true
 		- example: *bro* in the [[OED]]
 			- ![image.png](../assets/image_1699480538583_0.png)
 		- spelling
@@ -89,7 +88,6 @@
 				- https://1drv.ms/x/s!AvkgNVl9yS6aoXzCgrowdEwy2LMV
 		- [[OED]]
 		  id:: 65553565-f800-44b7-b53f-b63eaa68c827
-		  collapsed:: true
 			- ![image.png](../assets/image_1700085431951_0.png)
 			- advanced search
 				- ![image.png](../assets/image_1700086248403_0.png)
@@ -97,6 +95,7 @@
   id:: 65553569-77c5-4153-a348-ce7175770b70
   collapsed:: true
 	- use the advanced search to find all lexemes whose first use is after 2000
+	  collapsed:: true
 		- ![image.png](../assets/image_1700133799936_0.png)
 	- export the results to a `csv` file
 	- analyse the exported file in [[Microsoft Excel]]

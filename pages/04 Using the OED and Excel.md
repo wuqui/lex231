@@ -3,7 +3,6 @@
 	- useful dictionaries
 		- {{embed ((65553556-d2aa-4094-af92-66005f5e9701))}}
 		- [[Wiktionary]]
-		  collapsed:: true
 			- ((65553b8c-d0ac-457e-ac10-ae8d639c476a))
 		- {{embed ((65553565-f800-44b7-b53f-b63eaa68c827))}}
 - data analysis using [[Microsoft Excel]]
@@ -11,7 +10,6 @@
 		- tutorials: https://sfla.ch/tutorials/excel/
 	- {{embed ((65553569-77c5-4153-a348-ce7175770b70))}}
 	- [[practice]]: Which word-formation were used the most since 1800? ([[OED]])
-	  collapsed:: true
 		- selected word-formation processes
 			- Compounding
 			- Derivative
@@ -25,10 +23,10 @@
 			- 1800-1850
 		- advanced search: extract numbers
 			- ![image.png](../assets/image_1700783502820_0.png)
-			- ![image.png](../assets/image_1700785802465_0.png)
+			- ![image.png](../assets/image_1700849044343_0.png)
 		- analysis in [[Microsoft Excel]]
 			- model sheet: https://1drv.ms/x/s!AvkgNVl9yS6aogJbsZreWu2ZsRzT
 			- data sheet
-				- ![image.png](../assets/image_1700785841749_0.png)
+				- ![image.png](../assets/image_1700849091292_0.png)
 			- pivot analysis & chart
-				- ![image.png](../assets/image_1700785906308_0.png)
+				- ![image.png](../assets/image_1700849137869_0.png)
