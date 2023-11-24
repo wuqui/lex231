@@ -1,4 +1,5 @@
 - the lexicon
+  collapsed:: true
 	- two senses of *lexicon*
 		- {{embed ((6544372d-dec9-47cb-ab66-644834726315))}}
 	- objective of lexicology
@@ -56,6 +57,8 @@
 			- Which words are commonly used (in corpora), but not contained in dictionaries?
 			- Which words are contained in dictionaries, but are not commonly used (in corpora)?
 	- information provided
+	  id:: 654a60d8-23e3-4ff7-bef4-2456ff047eb3
+	  collapsed:: true
 		- example: *bro* in the [[OED]]
 			- ![image.png](../assets/image_1699480538583_0.png)
 		- spelling
@@ -68,12 +71,16 @@
 	- dictionaries
 		- overview
 		- [[Urban Dictionary]]
+		  id:: 65553556-d2aa-4094-af92-66005f5e9701
+		  collapsed:: true
 			- https://www.urbandictionary.com/
 			- ![urban-dictionary-neologism.png](../assets/urban-dictionary-neologism_1700084367030_0.png)
 		- [[Wiktionary]]
 			- https://www.wiktionary.org/
 			- ![wiktionary.png](../assets/wiktionary_1700084621385_0.png)
+			  id:: 65553b8c-d0ac-457e-ac10-ae8d639c476a
 			- [[WIND]]
+			  collapsed:: true
 				- [[Sajous2020ENGLAWI]]
 					- ((65553c13-f791-43fa-8be1-26fe6638f94c))
 				- http://redac.univ-tlse2.fr/lexiques/wind.html
@@ -81,10 +88,14 @@
 				- ![WIND-data.png](../assets/WIND-data_1700084893318_0.png)
 				- https://1drv.ms/x/s!AvkgNVl9yS6aoXzCgrowdEwy2LMV
 		- [[OED]]
+		  id:: 65553565-f800-44b7-b53f-b63eaa68c827
+		  collapsed:: true
 			- ![image.png](../assets/image_1700085431951_0.png)
 			- advanced search
 				- ![image.png](../assets/image_1700086248403_0.png)
 - [[practice]]: investigating lexical innovation since 2000 using the [[OED]]
+  id:: 65553569-77c5-4153-a348-ce7175770b70
+  collapsed:: true
 	- use the advanced search to find all lexemes whose first use is after 2000
 		- ![image.png](../assets/image_1700133799936_0.png)
 	- export the results to a `csv` file
