@@ -1,0 +1,2 @@
+- [[bibliography]]
+	- Kemmer, Suzanne. 2003. ‘Schemas and Lexical Blends’. In *Motivation in Language: Studies in Honor of Günther Radden*, edited by Günther Radden and Hubert Cuyckens, 69–97. J. Benjamins Pub. Co.
