@@ -1,5 +1,6 @@
 - active participation: $\leq 2$ absences
 - assessment
+  id:: 65425e64-f62b-45e4-9da9-8b26bc31840f
 	- 3 ECTS
 		- {{embed [[term paper/short]]}}
 	- 6 ECTS:
