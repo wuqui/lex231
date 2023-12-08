@@ -5,7 +5,7 @@
 	- term paper consulting
 	  collapsed:: true
 		- {{embed [[term paper/consulting]]}}
-- fundamentals
+- fundamentals of corpus linguistics
 	- What is corpus linguistics about?
 	  collapsed:: true
 		- Corpus linguistics is a research methodology within the field of linguistics that focuses on the systematic study of language using large and diverse **collections of authentic texts**, known as [[corpora]].
@@ -18,19 +18,14 @@
 		  collapsed:: true
 			- This approach contrasts with more traditional linguistic methods that rely heavily on introspection and theoretical speculation (e.g. Chomsky).
 		- Corpus linguistics has gained significant momentum in recent years, thanks to advances
-		  collapsed:: true
 			- in [[data]] (e.g. social media and web corpora) and
-			  collapsed:: true
-				- [[Twitter]] and [[Reddit]]
 			- [[methods]] (e.g. [social network analysis]([[social network analysis]]), [machine learning]([[machine learning]])).
 	- What is corpus linguistics good for?
 	  collapsed:: true
 		- Corpus linguistics as a [[usage-based approach]] to linguistic analysis
-		  collapsed:: true
 			- Corpus linguistics is highly valuable from a usage-based approach to linguistics, as it emphasizes the importance of **actual language use** in shaping linguistic knowledge and structure.
 			- The usage-based perspective posits that **linguistic structure and knowledge emerge from the patterns** and regularities that speakers encounter in their experience with language.
 			- In this context, corpus linguistics provides a powerful toolset for investigating these patterns and regularities, offering several advantages:
-			  collapsed:: true
 				- **Authentic language data**: Corpus linguistics relies on large and diverse collections of authentic texts, which represent real-world language use. This ensures that the patterns and structures uncovered through corpus analysis are grounded in genuine linguistic behavior, rather than relying on idealized or artificial examples.
 				- [[quantitative approach]]: Corpus linguistics allows for the quantitative analysis of linguistic phenomena, such as  [frequency counts]([[frequency]]) and [statistical measures]([[statistics]]). This enables researchers to identify and describe patterns and regularities that emerge from language use, supporting the usage-based claim that linguistic structure is shaped by frequency and distributional patterns in the input.
 				- [Collocations]([[collocations]]) and [[constructions]]: The usage-based approach posits that language is composed of form-meaning pairings, known as constructions, which range from morphemes and words to idiomatic expressions and complex syntactic structures. Corpus linguistics offers tools for identifying and analyzing collocations and constructions in large datasets, contributing to our understanding of the relationships between form, meaning, and use.
@@ -43,17 +38,19 @@
 		  collapsed:: true
 			- A corpus is a large, structured collection of texts that serves as the basis for linguistic analysis. Corpora can be general, representing a wide variety of language use, or specialized, focusing on specific genres, registers, or domains.
 			  collapsed:: true
-				- [monitor corpora]([[monitor corpus]]) such as [[NOW]] can be used to track language use until the present day
 		- [[annotation]]
 		  collapsed:: true
 			- Annotation refers to the process of adding metadata or linguistic information to a corpus, such as part-of-speech tags, syntactic structure, or semantic roles. This additional information can facilitate more in-depth and accurate analyses.
 			- [[metadata]]: data **about** language use on several levels:
-			  collapsed:: true
 				- corpus
-				  collapsed:: true
 					- texts: [[author]], [[text type]], [[register]], [[topic]]
-					  collapsed:: true
 						- [running words (tokens)]([[tokens]]): [[word class]], [[lemmatization]]
+							- tokens
+								- *walk*
+								- *walks*
+								- *walked*
+							- type, lexeme, lemma
+								- WALK$^v$
 		- [[concordance]]
 		  collapsed:: true
 			- A concordance is a tool that allows researchers to search for specific words, phrases, or patterns in a corpus and display the results in context. This helps researchers to examine language patterns and identify trends across various texts.
@@ -61,24 +58,25 @@
 		  collapsed:: true
 			- Collocation refers to the co-occurrence of words within a specific context or proximity. Studying collocations can reveal important information about word usage, meaning, and associations.
 			  collapsed:: true
-				- ‘You shall know a word by the company it keeps.’ ([[Firth1957SynopsisLinguistic]]) [[distributional hypothesis]]
-				- [[word sketches]]
 		- [[frequency]]
 		  collapsed:: true
 			- Frequency analysis involves counting the occurrences of linguistic features, such as words or structures, within a corpus. This helps researchers identify patterns and trends, as well as compare language use across different corpora.
 		- [[n-grams]]
 		  collapsed:: true
 			- N-grams are sequences of n contiguous words or linguistic units within a text. They can be used to study word combinations, patterns, and structures in a corpus.
-			  collapsed:: true
 				- Example: *The cat sat on the mat.*
+				  collapsed:: true
+					- bigrams (2-grams)
+						- *The cat*
+						- *cat sat*
+						- *sat on*
+						- …
 				- Example corpus: [[Google N-grams]]
 		- [[register]]
 		  collapsed:: true
 			- Register refers to the language variety used in specific contexts or situations, characterized by particular linguistic features, such as vocabulary, grammar, and style. Examining registers can help researchers understand language variation and adaptation.
 			  collapsed:: true
-				- a type of [[text type/variation]]
-- [[practice]]: [[lexical innovation]] and [[language change]] in the use of [[blends]] (→ [[Hilpert2023Meaning]])
-  collapsed:: true
+- [[practice]]: [[lexical innovation]] and [[language change]] in the use of [[clipping]] (→ [[Hilpert2023Meaning]])
 	- theoretical background
 	  collapsed:: true
 		- ((646c7ffd-bf32-4ce5-9756-917cc35793c1))
@@ -101,19 +99,19 @@
 			- for *bro*
 				- ![image_1688463153614_0.png](../assets/image_1688463153614_0_1701970248492_0.png)
 	- [[practice]] using [[english-corpora.org]] ([[NOW corpus]])
-	  collapsed:: true
-		- shared [[Microsoft Excel]] sheet:
-			- live sheet: https://1drv.ms/x/s!AvkgNVl9yS6aoghmv1DH94ul1RvB
+		- shared [[Microsoft Excel]] sheet
 			- model sheet: https://1drv.ms/x/s!AvkgNVl9yS6aoHF5zsqY2kmwifHf
-		- [[frequency]] analysis
-			- [[diachronic]] frequency: sheet `FreqDiac`
-				- How often were the source and clipped forms used in 2010 and 2020?
-					- hint: use lemmatised searches (e.g. `ADMIN` and `ADMINISTRATION`)
-					- ![image_1687260592633_0.png](../assets/image_1687260592633_0_1701970410115_0.png)
-						- [[frequency/absolute]]: `FREQ`
-						- [[frequency/relative]]: `PER MIL`
-			- [[geographical variation]]: Are clipped forms used more frequently in the US or GB?
-				- gather data in the sheet `FreqGeo`
-				- for all clipped forms, get the frequency information for `United States` and `Great Britain` using the `See frequency by country` button in the chart view
-					- ![image.png](../assets/image_1701970432094_0.png)
-				-
+			- [[frequency]] analysis
+				- [[diachronic]] frequency: sheet `FreqDiac`
+					- How often were the source and clipped forms used in 2010 and 2020?
+						- hint: use lemmatised searches (e.g. `ADMIN` and `ADMINISTRATION`)
+						- ![image_1687260592633_0.png](../assets/image_1687260592633_0_1701970410115_0.png)
+							- [[frequency/absolute]]: `FREQ`
+							- [[frequency/relative]]: `PER MIL`
+				- [[geographical variation]]: Are clipped forms used more frequently in the US or GB?
+				  collapsed:: true
+					- gather data in the sheet `FreqGeo`
+					- for all clipped forms, get the frequency information for `United States` and `Great Britain` using the `See frequency by country` button in the chart view
+					  collapsed:: true
+						- ![image.png](../assets/image_1701970432094_0.png)
+					-

@@ -1,7 +1,7 @@
 - please register beforehand via [mail](mailto:q.wuerschinger@lmu.de)
 - preliminary information required at least one day before the meeting via email
 	- research questions and hypotheses
-		- What are you investigating and what do you expect to find? Any why do you expect to find this?
+		- What are you investigating and what do you expect to find? Why do you expect to find this?
 	- theoretical background
 		- How does your study relate to previous (linguistic) work?
 	- data and method
