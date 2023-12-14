@@ -87,7 +87,6 @@
 	  collapsed:: true
 		- ((645a2859-a8d9-42e6-a102-69fd03ed164e))
 	- dataset of blends
-	  collapsed:: true
 		- {{embed ((646c7ffd-9ec6-4e8d-a179-d516891af48f))}}
 	- [[text type/variation]]
 	  collapsed:: true
@@ -99,19 +98,18 @@
 			- for *bro*
 				- ![image_1688463153614_0.png](../assets/image_1688463153614_0_1701970248492_0.png)
 	- [[practice]] using [[english-corpora.org]] ([[NOW corpus]])
-		- shared [[Microsoft Excel]] sheet
-			- model sheet: https://1drv.ms/x/s!AvkgNVl9yS6aoHF5zsqY2kmwifHf
-			- [[frequency]] analysis
-				- [[diachronic]] frequency: sheet `FreqDiac`
-					- How often were the source and clipped forms used in 2010 and 2020?
-						- hint: use lemmatised searches (e.g. `ADMIN` and `ADMINISTRATION`)
-						- ![image_1687260592633_0.png](../assets/image_1687260592633_0_1701970410115_0.png)
-							- [[frequency/absolute]]: `FREQ`
-							- [[frequency/relative]]: `PER MIL`
-				- [[geographical variation]]: Are clipped forms used more frequently in the US or GB?
-				  collapsed:: true
-					- gather data in the sheet `FreqGeo`
-					- for all clipped forms, get the frequency information for `United States` and `Great Britain` using the `See frequency by country` button in the chart view
-					  collapsed:: true
-						- ![image.png](../assets/image_1701970432094_0.png)
-					-
+		- model [[Microsoft Excel]] sheet: https://1drv.ms/x/s!AvkgNVl9yS6aoHFYO-DgiD5ZjfUh
+		- [[frequency]] analysis
+			- [[diachronic]] frequency: sheet `FreqDiac`
+				- How often were the source and [clipped forms]([[clipping]]) used in 2010 and 2020?
+					- ![image_1687260592633_0.png](../assets/image_1687260592633_0_1701970410115_0.png)
+						- [[frequency/absolute]]: `FREQ`
+						- [[frequency/relative]]: `PER MIL`
+			- [[geographical variation]]: Are the clipped forms used more frequently in the US or GB?
+				- search for clipped forms in the NOW corpus (e.g. for `admin`)
+					- use the [Chart view]([[english-corpora.org/Chart view]])
+						- ![image.png](../assets/image_1702569495524_0.png)
+						- click on frequency `BY COUNTRY`
+							- ![image.png](../assets/image_1702569574789_0.png)
+				- gather data in the sheet `FreqGeo`
+				- proceed with the analysis using a [pivot table]([[Microsoft Excel/pivot table]]) as usual

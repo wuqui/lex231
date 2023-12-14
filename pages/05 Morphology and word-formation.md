@@ -58,7 +58,6 @@
 	  logseq.order-list-type:: number
 	- *lol*
 	  logseq.order-list-type:: number
-	- {{renderer excalidraw, excalidraw-2023-11-03-00-51-20}}
 - [[practice]]: Studying word-formation in the [[OED]]
 	- [[shortening]]: Which semantic domains are most common among shortenings?
 		- advanced search
