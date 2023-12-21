@@ -36,11 +36,13 @@
 					- [[tokens]]
 						- concrete instantiations of types in running text, commonly delimited by whitespace
 			- Model of the linguistic sign ([[deSaussure1916Cours]])
+			  id:: 6544372d-50ea-40d7-8082-30e0057fd539
+			  collapsed:: true
 				- ![image.png](../assets/image_1698947928175_0.png)
 				- types of signs ([[Keller1994Sprachwandel]])
-					- index
-					- icon
-					- symbol
+					- indices: relation of naturalness
+					- icons: relation of similarity
+					- symbols: relation of arbitrariness
 			- What is the function of words in communication?
 				- Organon model ([[Buhler1934Sprachtheorie]])
 					- ![image.png](../assets/image_1698948017991_0.png)

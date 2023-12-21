@@ -46,7 +46,7 @@
 			- > A word is a linguistic item which helps us discuss the world around us. It is a unit which not only has form (a phonological structure or an orthographic one), but also meaning. In this sense, names are words. But names are different from other words in a number of ways.
 			- reference
 				- > They have unique reference, *Samantha* refers to one particular person in a given context, *tree* refers to a set of items, one or more of which is relevant in the given context.
-				- ((6544372d-c654-4fa9-a9c2-9fbaebee101c))
+				- ![image.png](../assets/image_1698949528283_0.png)
 				- definite reference:
 					- **the Samantha*
 					- *This is not the Paris I used to now.*

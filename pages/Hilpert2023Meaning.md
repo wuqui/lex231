@@ -5,6 +5,8 @@ tags:: [[paper]]
 	  id:: 645a1add-5577-41b5-a719-4379a3fc72d5
 - [[abstract]]
   id:: 645a1b9e-f78b-46c6-a43e-262f285a67d2
+  collapsed:: true
+	-
 	- > This paper uses corpus data and methods of [[distributional semantics]] in order to study English [clippings]([[clipping]]) such as dorm (< dormitory), memo (< memorandum), or quake (< earthquake).
 	- id:: 646c7ffd-bf32-4ce5-9756-917cc35793c1
 	  > We investigate whether systematic [meaning differences]([[semantic/variation]]) between clippings and their source words can be detected.
@@ -18,10 +20,9 @@ tags:: [[paper]]
 	- id:: 646c7ffd-f579-4778-a862-f26364baf6ec
 	  > It is further observed that individual clippings and their source words partly diverge in their distributional profiles, reflecting both overlap and differences with regard to their meanings.
 	- > We interpret these findings against the theoretical background of [Construction Grammar]([[Construction Grammar]]) and specifically the Principle of No Synonymy.
-- [[keywords]]
-  collapsed:: true
-	- clipping, COCA, distributional profile, Construction Grammar, Principle of No Synonymy
 - [[research questions]]
+  id:: 6571ffc8-8203-476c-b186-12b045460a4e
+  collapsed:: true
 	- > “This paper uses corpus data in order to study English clippings such as dorm (< dormitory), memo (< memorandum), or quake (< earthquake), which are formed on the basis of existing lexical items from which phonological material is deleted. More specifically, we investigate meaning differences between clippings and their source words. Are there semantic or pragmatic differences between pairs such as dorm and dormitory, and if so, what are they? Is it possible to formulate generalizations that capture how clippings and their source words relate to one another with regard to meaning? How should these relations be described?” (Hilpert et al., 2023, p. 19)
 - [[data]]
   id:: 645a1d76-e12f-450a-86b2-e69ccea0890f
@@ -38,6 +39,8 @@ tags:: [[paper]]
 	- [[collocations]]
 	- [[word embeddings]]
 - [meaning]([[meaning]]) of [clippings]([[clipping]])
+  id:: 6571ffc8-c600-478a-a693-b6438612d82c
+  collapsed:: true
 	- id:: 645a1fda-7e5f-4fa4-8572-25f32477431e
 	  > “At one extreme of the continuum, the semantic distance between the two is thought to be minimal, or even non-existent. For example, Dressler (2000: 4) argues that abbreviations and clippings such as GOP (< Grand Old Party) or mic (< microphone) do not, as a matter of principle, change the meaning of their source words. Clippings and their source words are thus viewed as mutual alternatives that only differ in form.” (Hilpert et al., 2023, p. 20)
 	- the author’s framework
@@ -58,5 +61,5 @@ tags:: [[paper]]
 	- p. 25
 - differences in [[collocations]] for *cardio-vascular* vs *cardio*
   id:: 645a2b02-c578-4edc-b121-f5bca5a76389
-	- ![image_1683630867757_0.png](../assets/image_1683630867757_0_1701970122752_0.png)
+	- ![image_1683630867757_0.png](../assets/image_1683630867757_0_1701970122752_0.png){:height 68, :width 268}
 		- p. 31
