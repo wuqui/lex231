@@ -34,8 +34,10 @@
 				- ![image.png](../assets/image_1703174172496_0.png)
 		- syntagmatic
 			- definition
+			  collapsed:: true
 				- ((65427e11-e2cd-44a3-9ef7-4dcd76a05a6b))
 			- [[collocations]] and [[idioms]]
+			  collapsed:: true
 				- ![image.png](../assets/image_1703174216245_0.png)
 				- ![collocations-vs-idioms.png](../assets/collocations-vs-idioms_1698949088595_0.png)
 		- [[paradigmatic relations]] vs [[syntagmatic relations]]
@@ -44,28 +46,20 @@
 		- [[practice]]: [[lexical relations]]
 		  collapsed:: true
 			- *give* – *receive*
-			  collapsed:: true
 				- directional opposites
 			- *freedom* – *liberty*
-			  collapsed:: true
 				- synonyms (descriptive)
 			- *poor* – *rich*
-			  collapsed:: true
 				- antonyms: polar
 			- *peace* – *war*
-			  collapsed:: true
-				- antonyms: complementary
+				- antonyms: polar
 			- *car* – *convertible*
-			  collapsed:: true
 				- hyperonym – hyponym
-			- *house* – *cottage* – *palace*
-			  collapsed:: true
+			- *building* → *house* – *cottage* – *palace*
 				- co-hyponyms of *building*
 			- *clear* – *conscience*
-			  collapsed:: true
 				- collocation
 			- *It costs an arm and a leg.*
-			  collapsed:: true
 				- idiom
 	- [[semantic change]]
 	  collapsed:: true
@@ -94,6 +88,7 @@
 			- Which of the pairs of blends exhibits a difference in meaning?
 			- What is the nature of the semantic variation between source forms and clipped forms?
 		- use [[collocations]] to analyse meaning
+			- ![image.png](../assets/image_1703241715733_0.png)
 			- ![image.png](../assets/image_1702566403073_0.png)
 	- differences in meaning between text types
 	  collapsed:: true

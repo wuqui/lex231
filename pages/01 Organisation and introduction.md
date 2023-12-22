@@ -37,7 +37,6 @@
 						- concrete instantiations of types in running text, commonly delimited by whitespace
 			- Model of the linguistic sign ([[deSaussure1916Cours]])
 			  id:: 6544372d-50ea-40d7-8082-30e0057fd539
-			  collapsed:: true
 				- ![image.png](../assets/image_1698947928175_0.png)
 				- types of signs ([[Keller1994Sprachwandel]])
 					- indices: relation of naturalness

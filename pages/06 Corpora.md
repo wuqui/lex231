@@ -101,11 +101,13 @@
 		- model [[Microsoft Excel]] sheet: https://1drv.ms/x/s!AvkgNVl9yS6aoHFYO-DgiD5ZjfUh
 		- [[frequency]] analysis
 			- [[diachronic]] frequency: sheet `FreqDiac`
+			  collapsed:: true
 				- How often were the source and [clipped forms]([[clipping]]) used in 2010 and 2020?
 					- ![image_1687260592633_0.png](../assets/image_1687260592633_0_1701970410115_0.png)
 						- [[frequency/absolute]]: `FREQ`
 						- [[frequency/relative]]: `PER MIL`
 			- [[geographical variation]]: Are the clipped forms used more frequently in the US or GB?
+			  collapsed:: true
 				- search for clipped forms in the NOW corpus (e.g. for `admin`)
 					- use the [Chart view]([[english-corpora.org/Chart view]])
 						- ![image.png](../assets/image_1702569495524_0.png)
