@@ -1,4 +1,5 @@
 - theory
+  collapsed:: true
 	- [[lexical innovation]]
 		- types of neologisms
 			- [[Kerremans2015Web]]
@@ -44,6 +45,7 @@
 		- [[Lipka2002EnglishLexicology]]
 		- [[Schmid2016EnglishMorphology]]
 - [[practice]]: Analyse the following words morphologically
+  collapsed:: true
 	- *distasteful*
 	  logseq.order-list-type:: number
 	- *fridge*
@@ -59,20 +61,28 @@
 	- *lol*
 	  logseq.order-list-type:: number
 - [[practice]]: Studying word-formation in the [[OED]]
+  collapsed:: true
 	- [[shortening]]: Which semantic domains are most common among shortenings?
 		- advanced search
+		  collapsed:: true
 			- ![image.png](../assets/image_1701426526094_0.png)
 				- [URL](https://www.oed.com/search/advanced/Entries?typeOfFormation=shortening&textTermOpt0=WordPhrase&dateOfUseFirstUse=false&page=1&sortOption=DateNewFirst)
 		- [[Microsoft Excel]]
+		  collapsed:: true
 			- model file
+			  collapsed:: true
 				- https://1drv.ms/x/s!AvkgNVl9yS6aogTnf49W66DfUSYZ
 			- create `Table`
+			  collapsed:: true
 				- ![image.png](../assets/image_1701363345260_0.png)
 			- create `Pivot Table`
+			  collapsed:: true
 				- ![image.png](../assets/image_1701363439435_0.png){:height 217, :width 522}
 			- group on the top level of categories
+			  collapsed:: true
 				- ![image.png](../assets/image_1701363473055_0.png)
 			- create pivot chart
+			  collapsed:: true
 				- ![image.png](../assets/image_1701363509221_0.png)
-			-
+				  id:: 6569a945-6eab-4695-97a2-b12c9dc68db1
 	- compare these findings with [[compounding]]

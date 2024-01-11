@@ -1,4 +1,5 @@
 - semantic fundamentals
+  collapsed:: true
 	- model of the linguistic sign
 	  collapsed:: true
 		- {{embed ((6544372d-50ea-40d7-8082-30e0057fd539))}}
@@ -67,30 +68,30 @@
 		- the example of *silly*
 			- ![image.png](../assets/image_1703174276050_0.png)
 - studying the meaning of clippings vs source forms ([[Hilpert2023Meaning]])
+  collapsed:: true
 	- design
-	  collapsed:: true
 		- good model for your [[term paper]] projects
 	- background
-	  collapsed:: true
 		- {{embed ((645a1b9e-f78b-46c6-a43e-262f285a67d2))}}
 		- {{embed ((6571ffc8-8203-476c-b186-12b045460a4e))}}
 		- {{embed ((6571ffc8-c600-478a-a693-b6438612d82c))}}
 	- data
-	  collapsed:: true
 		- {{embed ((645a1d76-e12f-450a-86b2-e69ccea0890f))}}
 	- results
-	  collapsed:: true
 		- {{embed ((645a2b02-c578-4edc-b121-f5bca5a76389))}}
 - [[practice]]: studying [[semantics]] in the [[COCA]]
+  id:: 657b19fe-cbfb-4914-b620-c87af6ff0101
 	- differences between [clippings]([[clipping]]) and source forms ([[Hilpert2023Meaning]])
-	  collapsed:: true
 		- task
-			- Which of the pairs of blends exhibits a difference in meaning?
+			- Which of the [pairs of blends](((645a2870-9ab6-4a81-941d-44fe6a3c121a))) exhibits a difference in meaning?
 			- What is the nature of the semantic variation between source forms and clipped forms?
 		- use [[collocations]] to analyse meaning
+		  collapsed:: true
 			- ![image.png](../assets/image_1703241715733_0.png)
 			- ![image.png](../assets/image_1702566403073_0.png)
 	- differences in meaning between text types
 	  collapsed:: true
 		- example: *problem*
-			- ![image.png](../assets/image_1703174640456_0.png)
+			- ![image.png](../assets/image_1704971598749_0.png){:height 461, :width 380}
+			- ![image.png](../assets/image_1704971645915_0.png)
+			  id:: 658461e0-86b0-4bc0-b412-4b44bfde8c4d
