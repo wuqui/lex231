@@ -13,6 +13,7 @@
 	- Meeting ID: 538 553 0182
 	- Passcode: 531379
 - available dates
+  collapsed:: true
 	- [[Thu, 15.02.2024]]
 		- 10:00 h
 	- [[Fri, 16.02.2024]]

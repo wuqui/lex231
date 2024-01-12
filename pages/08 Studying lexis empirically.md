@@ -12,10 +12,12 @@
 	- [[topic]]
 	  collapsed:: true
 		- What is a topic?
+		  collapsed:: true
 			- a more general account of what your are interested in
 			- a vague formulation of your project
 			- the area and discipline you are working in
 		- What is a good topic?
+		  collapsed:: true
 			- is not too general but also not too specific
 			- should have further relevance for linguistics
 			- includes new aspects based on state of the art in the relevant theories
@@ -32,24 +34,30 @@
 	- research questions and hypotheses
 	  collapsed:: true
 		- how to find RQs
+		  collapsed:: true
 			- from previous literature
+			  collapsed:: true
 				- by coming across a suggestion for desiderata / unanswered questions
 				- by replicating someone else's work
 				- by identifying a gap, i.e. something that has not yet been asked
 			- from observation
 			- from own empirical findings within the study
 		- Which [[topic]] do I want to work on?
+		  collapsed:: true
 			- Is it broad enough to be interesting?
 			- Is it narrow enough to be doable?
 			- Does it have a strong enough linguistic focus?
 		- Which [[research question]] do I want to work on?
+		  collapsed:: true
 			- Is it broad enough to be interesting?
 			- Is it narrow enough to be doable?
 			- Does it have a strong enough linguistic focus?
 		- What are my [hypotheses]([[hypotheses]])?
+		  collapsed:: true
 			- What do I expect the outcome of my study to be?
 			- Why do I expect these results? (e.g. previous studies, theoretical models)
 		- How does my research question relate to [previous work]([[references]])?
+		  collapsed:: true
 			- Has there been previous work on this? From which fields?
 			- Where lies the contribution of my project?
 		- Which [data]([[data]]) could I use to study my research question?
@@ -80,7 +88,6 @@
 				- Bayerische Staatsbibliothek (BSB)
 				  collapsed:: true
 					- [OPAC](https://opacplus.bsb-muenchen.de/metaopac/start.do)
-					  collapsed:: true
 						- ![image.png](../assets/image_1704972365762_0.png)
 			- web
 			  collapsed:: true
@@ -110,7 +117,6 @@
 			- [[AI]]-assisted services
 			  collapsed:: true
 				- [elicit.org](https://elicit.org/)
-				  collapsed:: true
 					- ![image.png](../assets/image_1704972436990_0.png)
 		- citing references
 		  collapsed:: true
@@ -142,27 +148,34 @@
 			  collapsed:: true
 				- recommendation: maintain **1** file with all your bibliographic information
 			- using tools
-			  collapsed:: true
 				- my recommendation: [Zotero](https://www.zotero.org/)
 				- other tools
+				  collapsed:: true
 					- [Citavi](https://citavi.com/)
 					- [EndNote](https://endnote.com/)
 					- [Mendeley](https://www.mendeley.com/)
 	- structure
 	  collapsed:: true
 		- Introduction
+		  collapsed:: true
 			- This section should provide an overview of the topic, the context, and the relevance of the research. It should also include the research question or hypothesis, and a brief summary of what the paper will cover.
 		- Theoretical Background
+		  collapsed:: true
 			- This section should provide a detailed review of the existing literature relevant to your research question. It should highlight the theories and findings of previous studies, and how they relate to your own research. This section should also define any key terms and concepts.
 		- Data
+		  collapsed:: true
 			- This section should describe the data that you will be analyzing in your study. This could include the source of the data, the criteria for selection, and any relevant characteristics of the data. In a corpus linguistic paper, this would typically involve describing the corpus that you are using.
 		- Method
+		  collapsed:: true
 			- This section should describe the methods you used to analyze your data. This should include any specific techniques or procedures, as well as any software or tools used. In a corpus linguistic paper, this might involve describing how you used a particular software tool to analyze the frequency and distribution of certain linguistic features in your corpus.
 		- Results
+		  collapsed:: true
 			- This section should present the findings of your analysis. It should be clear and concise, and use tables, graphs, or other visual aids where appropriate. The results should be presented in a way that directly addresses your research question or hypothesis.
 		- Discussion
+		  collapsed:: true
 			- This section should interpret the results in the context of your research question and the existing literature. It should discuss whether the results support your hypothesis, and what implications they have for the field of linguistics. This section may also identify any limitations of your study, and suggest areas for future research.
 		- Conclusion
+		  collapsed:: true
 			- This section should provide a summary of your research, the main findings, and the implications of these findings. It should also restate the relevance of your research and provide a final thought or reflection on the study.
 	- style and readability
 	  collapsed:: true
@@ -216,25 +229,34 @@
 	- topics and research questions
 	  collapsed:: true
 		- [[lexical variation]]
+		  collapsed:: true
 			- ((6544372d-a09f-44fd-95e5-eedf29f8e9ab))
 			- examples
 				- diaphasic variation in usage frequency between text types
+				  collapsed:: true
 					- {{embed ((296b8a72-58c4-4e46-9b48-2ffe951b6b04))}}
 				- differences in use of word-formation processes (e.g. blending) between text types
 				- diatopic variation in use of words between regional varieties of English
+				  collapsed:: true
 					- *autumn* across countries in the [[NOW]] Corpus
 						- ![image.png](../assets/image_1704974211634_0.png)
 				- diaphasic semantic variation of *problem* between different text types
+				  collapsed:: true
 					- ((658461e0-86b0-4bc0-b412-4b44bfde8c4d))
 		- [[lexical change]]
+		  collapsed:: true
 			- [[frequency]] change
+			  collapsed:: true
 				- increase of *phone* in the [[COHA]]
 					- ![image.png](../assets/image_1704973361401_0.png)
 			- [[meaning]] change
+			  collapsed:: true
 				- collocates of *gay* in the [[COHA]]
 					- ![image.png](../assets/image_1704973438464_0.png)
 		- [[word-formation]]
 			- distribution of shortenings across semantic domains
+			  collapsed:: true
 				- ((6569a945-6eab-4695-97a2-b12c9dc68db1))
 			- productivity of word-formation processes (over time)
+			  collapsed:: true
 				- ((655feef1-6dc4-4a70-9819-505ec24c4c65))
