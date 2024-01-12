@@ -82,11 +82,11 @@
 - [[practice]]: studying [[semantics]] in the [[COCA]]
   id:: 657b19fe-cbfb-4914-b620-c87af6ff0101
 	- differences between [clippings]([[clipping]]) and source forms ([[Hilpert2023Meaning]])
+	  collapsed:: true
 		- task
 			- Which of the [pairs of blends](((645a2870-9ab6-4a81-941d-44fe6a3c121a))) exhibits a difference in meaning?
 			- What is the nature of the semantic variation between source forms and clipped forms?
 		- use [[collocations]] to analyse meaning
-		  collapsed:: true
 			- ![image.png](../assets/image_1703241715733_0.png)
 			- ![image.png](../assets/image_1702566403073_0.png)
 	- differences in meaning between text types

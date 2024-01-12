@@ -1,15 +1,14 @@
 - recap: semantics
 	- {{embed ((657b19fe-cbfb-4914-b620-c87af6ff0101))}}
 - research projects and [term papers]([[term paper]])
+	- term paper consulting
+	  collapsed:: true
+		- {{embed [[term paper/consulting]]}}
 	- goal
 	  collapsed:: true
 		- research question with a linguistic focus
 		- empirical study
-		- using corpus data
-		- using corpuslinguistic methods
-	- term paper consulting
-	  collapsed:: true
-		- {{embed [[term paper/consulting]]}}
+		- using corpus and/or dictionary data
 	- [[topic]]
 	  collapsed:: true
 		- What is a topic?
