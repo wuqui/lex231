@@ -1,4 +1,5 @@
 - recap: semantics
+  collapsed:: true
 	- {{embed ((657b19fe-cbfb-4914-b620-c87af6ff0101))}}
 - research projects and [term papers]([[term paper]])
 	- term paper consulting
@@ -227,7 +228,6 @@
 			  collapsed:: true
 				- PaperPal is an advanced AI grammar checker and online academic writing tool that identifies language errors and provides instant, in-depth suggestions to help you polish your manuscript. It offers real-time, subject-specific language suggestions that help you write better and faster. It can check for key rejection parameters, identify and improve problem areas, and provide unlimited revisions and rechecks. It's a great tool for delivering high-quality research articles faster with suggestions to improve language, grammar, and readability as you write. However, always remember to review and understand the changes suggested by the tool to ensure they align with your original intent.
 	- topics and research questions
-	  collapsed:: true
 		- [[lexical variation]]
 		  collapsed:: true
 			- ((6544372d-a09f-44fd-95e5-eedf29f8e9ab))
@@ -244,14 +244,13 @@
 				  collapsed:: true
 					- ((658461e0-86b0-4bc0-b412-4b44bfde8c4d))
 		- [[lexical change]]
-		  collapsed:: true
 			- [[frequency]] change
-			  collapsed:: true
 				- increase of *phone* in the [[COHA]]
+				  id:: 659fd415-cee3-448e-821e-2816f8b8de3c
 					- ![image.png](../assets/image_1704973361401_0.png)
 			- [[meaning]] change
-			  collapsed:: true
 				- collocates of *gay* in the [[COHA]]
+				  id:: 659fd33f-0f0e-4bb0-b600-b34952c8a400
 					- ![image.png](../assets/image_1704973438464_0.png)
 		- [[word-formation]]
 			- distribution of shortenings across semantic domains

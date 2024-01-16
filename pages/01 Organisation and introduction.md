@@ -35,7 +35,7 @@
 						- [inflectional variants]([[inflection]]) of lexemes: *(he) works*, *(he) worked*
 					- [[tokens]]
 						- concrete instantiations of types in running text, commonly delimited by whitespace
-			- Model of the linguistic sign ([[deSaussure1916Cours]])
+			- [Model of the linguistic sign]([[Model of the Linguistic Sign]]) ([[deSaussure1916Cours]])
 			  id:: 6544372d-50ea-40d7-8082-30e0057fd539
 				- ![image.png](../assets/image_1698947928175_0.png)
 				- types of signs ([[Keller1994Sprachwandel]])
