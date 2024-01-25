@@ -93,7 +93,6 @@
 				- ![image.png](../assets/image_1700086248403_0.png)
 - [[practice]]: investigating lexical innovation since 2000 using the [[OED]]
   id:: 65553569-77c5-4153-a348-ce7175770b70
-  collapsed:: true
 	- use the advanced search to find all lexemes whose first use is after 2000
 	  collapsed:: true
 		- ![image.png](../assets/image_1700133799936_0.png)

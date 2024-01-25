@@ -12,10 +12,13 @@
 			- external history
 				- ![image.png](../assets/image_1705423831812_0.png){:height 279, :width 593}
 				- Germanic conquest
+				  collapsed:: true
 					- ![image.png](../assets/image_1705423855875_0.png)
-					- Viking raids
-						- ![image.png](../assets/image_1705424011295_0.png)
+				- Viking raids
+				  collapsed:: true
+					- ![image.png](../assets/image_1705424011295_0.png)
 			- linguistic characteristics
+			  collapsed:: true
 				- ![image.png](../assets/image_1705424051791_0.png){:height 154, :width 597}
 		- [Middle English]([[Middle English]]): ca. 1100–1500
 		  collapsed:: true
@@ -50,6 +53,7 @@
 		- [[Late Modern English]]: ca. 1800–1945 (?)
 		  collapsed:: true
 			- external history
+			  collapsed:: true
 				- ![image.png](../assets/image_1705424442910_0.png){:height 219, :width 524}
 			- linguistic characteristics
 				- ![image.png](../assets/image_1705424540376_0.png){:height 212, :width 527}
@@ -69,13 +73,13 @@
 - the lexicon of [Present-Day English]([[Present-Day English]])
   collapsed:: true
 	- lexical [borrowing]([[borrowing]])
+	  collapsed:: true
 		- [[Leisi2008Heutige]]: p. 41
 		  collapsed:: true
 			- > Der heutige englische Wortschatz ist eine einzigartige Mischung von germanischen und romanischen Elementen; in Bezug auf das Vokabular stellt also das Englische einen Sonderfall unter den europäischen Sprachen dar [...].
 		- most frequent words
 		  collapsed:: true
 			- list based on [[COCA]]
-			  collapsed:: true
 				- ![image.png](../assets/image_1705424948673_0.png){:height 478, :width 312}
 			- languages of origin
 			  collapsed:: true
@@ -100,7 +104,6 @@
 		  collapsed:: true
 			- elements that survived from [OE]([[Old English]]) are basic elements of the vocabulary and make up a large part of any English sentence (very frequent): pronouns, conjunctions, auxiliary verbs etc.
 			- fundamental concepts
-			  collapsed:: true
 				- ae. *mann* ‘man’
 				- ae. *wīf* ‘wife’
 				- ae. *cīld* ‘child’
@@ -120,8 +123,7 @@
 		  collapsed:: true
 			- Viking raids (‘Danelaw’)
 			- genetic resemblance between Old Norse and [Old English]([[Old English]])
-			- strong influence on basic vocabulary: 
-			  collapsed:: true
+			- strong influence on basic vocabulary:
 				- function words: *they*, *them*, *their*; *though*
 				- verbs: *to call*, *to die*, *to take*, *to raise*
 				- nouns: *law*, *husband*, *egg*, *birth*
@@ -137,7 +139,6 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1705425584881_0.png){:height 359, :width 556}
 				- ![image.png](../assets/image_1705425607031_0.png){:height 417, :width 558}
-			-
 		- from other languages
 		  collapsed:: true
 			- ![image.png](../assets/image_1705425682143_0.png){:height 254, :width 565}
@@ -188,6 +189,7 @@
 		  collapsed:: true
 			- {{embed ((659fd415-cee3-448e-821e-2816f8b8de3c))}}
 		- decreases: [[lexical attrition]]
+		  collapsed:: true
 			- *telephone* in the [[COCA]]
 			  id:: 65a6c6dc-4f0d-45d7-b034-7a841987bf3d
 				- ![image.png](../assets/image_1705428770659_0.png){:height 261, :width 401}
@@ -197,11 +199,15 @@
 		  [[Hamilton2016Diachronic]]
 		- {{embed ((659fd33f-0f0e-4bb0-b600-b34952c8a400))}}
 - [[lexical innovation]]
-  collapsed:: true
 	- the interplay of cultural and linguistic innovation
+	  id:: 65a6ae2e-094a-440c-96b5-72db6206a2e4
 		- society continually changes as new practices and products emerge (e.g. smartphones)
-		- these changes typically first manifest themselves in language on the level of lexis in the form of [[neologisms]] (e.g. the words *smartphone* or *iphone*)
-			- semantic neologisms: denotational vs connotational change
+		- these changes typically first manifest themselves in language on the level of lexis in the form of [[neologisms]]
+			- formal neologisms
+				- *smartphone*
+				- *iPhone*
+				- *Covid*
+			- semantic neologisms
 				- *hotspot*
 				- de. *Querdenker*
 				- *(social) distancing*
@@ -217,12 +223,15 @@
 		- {{embed ((65a6c6dc-4f0d-45d7-b034-7a841987bf3d))}}
 		- *Walkman* in the [[COHA]]
 			- ![image.png](../assets/image_1705428958906_0.png){:height 271, :width 285}
+			- *millenium bug*
 - [[practice]]: study [[lexical attrition]]
   collapsed:: true
 	- get a sample of words that have become obsolete from the [[OED]]
 		- collect words using Advanced Search
+		  collapsed:: true
 			- ![image.png](../assets/image_1705429163039_0.png)
 		- export data as `csv`
+		  collapsed:: true
 			- ![image.png](../assets/image_1705429224601_0.png)
 	- analyse in [[Microsoft Excel]] what types of words have become obsolete
 		- model sheet: https://1drv.ms/x/s!AvkgNVl9yS6aohjiV_csX3J22GCB
