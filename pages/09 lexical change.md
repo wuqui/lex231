@@ -183,7 +183,6 @@
 				- *epitaph* vs *epithet*
 			- confusion labeled ‘malapropism’
 - types of lexical change
-  collapsed:: true
 	- change in usage frequency
 		- increases: [[lexical innovation]]
 		  collapsed:: true
@@ -203,17 +202,21 @@
 	  id:: 65a6ae2e-094a-440c-96b5-72db6206a2e4
 		- society continually changes as new practices and products emerge (e.g. smartphones)
 		- these changes typically first manifest themselves in language on the level of lexis in the form of [[neologisms]]
+		  collapsed:: true
 			- formal neologisms
+			  collapsed:: true
 				- *smartphone*
 				- *iPhone*
 				- *Covid*
 			- semantic neologisms
+			  collapsed:: true
 				- *hotspot*
 				- de. *Querdenker*
 				- *(social) distancing*
 				- *spreader*
 		- knowledge of words is [conventional]([[conventionalization]]): speakers learn form-meaning pairings (→ [Model of the Linguistic Sign]([[Model of the Linguistic Sign]]) by Ferdinand de Saussure; e.g. *tree*)
 	- [[lexical renaissance]]: innovation after [[lexical attrition]]
+	  collapsed:: true
 		- *dotard*
 		- *to furlough*
 - [[lexical attrition]]
@@ -239,6 +242,7 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1705429338476_0.png)
 		- use a [Pivot Table]([[Microsoft Excel/pivot table]]) to analyse the following variables (columns)
+		  collapsed:: true
 			- word-formation processes
 			- language of origin
 			- subject areas
