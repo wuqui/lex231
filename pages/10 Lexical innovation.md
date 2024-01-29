@@ -14,7 +14,9 @@
 		- that it is part of the conventional language system of a language ([[conventionalization]])
 	- {{embed ((65b2934b-9476-45cb-8e85-ea8e69d5a5b2))}}
 - pathways of [[diffusion]]
+  collapsed:: true
 	- types of [[linguistic variation]] and diffusion
+	  collapsed:: true
 		- ((6544372d-a09f-44fd-95e5-eedf29f8e9ab))
 	- dimensions of diffusion
 	  collapsed:: true
@@ -24,13 +26,11 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1706202537985_0.png)
 - [[operationalization]]
-  collapsed:: true
 	- [[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017Corpusbased]])
 	  collapsed:: true
 		- [[corpus-as-input]]: language used in corpora represents potential [[exposure]] to speakers
 		- [[corpus-as-output]]: languaged used by speakers in corpora represents potential degrees of entrenchment
 	- [[frequency]] measures (examples from [[Würschinger2021Social]])
-	  collapsed:: true
 		- total frequency
 		  collapsed:: true
 			- most frequent
@@ -67,13 +67,13 @@
 			  collapsed:: true
 				- ![image.png](../assets/image_1706203675396_0.png)
 - [[practice]]
-  collapsed:: true
 	- study lexical innovations in corpora
-	  collapsed:: true
 		- using the case study words from [[Würschinger2021Social]],
+		  collapsed:: true
 			- ((d2cf2578-ed9f-4cc0-826e-fcf1255ac7c0))
 		- for each of these words collect data from the [[NOW]] corpus about
+		  collapsed:: true
 			- their total usage frequency (absolute and relative)
 			- whether they are increasing or decreasing in frequency/conventionality over time
 			- compare the data from the NOW corpus to the results in [[Würschinger2021Social]]
-	- identify all neologisms that were first used after 2000 according to the [[OED]]
+	- ((65553569-77c5-4153-a348-ce7175770b70))
