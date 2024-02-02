@@ -1,18 +1,24 @@
 - the importance of variation in lexicology
+  collapsed:: true
 	- ((65427192-ad8c-47b7-b451-1a6f6544f72b))
 - dimensions of variation
+  collapsed:: true
 	- overview of types of variation
+	  collapsed:: true
 		- diatopic, diastratic, and diaphasic
 		  collapsed:: true
 			- ![image.png](../assets/image_1706633267124_0.png)
 			  ([[Kortmann2020English]]: 204)
 			- id:: 6544372d-a09f-44fd-95e5-eedf29f8e9ab
+		- language change = language variation over time = diachronic
 		- variation based on “user” and “language use”
 		  collapsed:: true
 			- ((6542869f-aa64-4e84-81d8-b484008a566a))
 			  ([[Lipka1992OutlineEnglish]])
-	- speaker groups
+	- speaker variation
+	  collapsed:: true
 		- regional variation
+		  collapsed:: true
 			- dialect
 			  collapsed:: true
 				- ((65428353-1d92-4692-8637-1a5292d2038c))
@@ -24,14 +30,15 @@
 		  collapsed:: true
 			- ((6542846e-6dc2-411b-b715-cd318df3288b))
 	- situational variation
+	  collapsed:: true
 		- register
 		  collapsed:: true
 			- ((65428396-7109-446e-b087-79b3a398b383))
 - [[lexical change]] and [[lexical variation]] in English [[modal verbs]] ([[Hilpert2015Grammatical]])
 	- theory and previous work
+	  collapsed:: true
 		- ((87e6447a-b496-42b2-b94c-1ab8281ebecc))
 		- core and peripheral modals
-		  collapsed:: true
 			- core modals
 			  collapsed:: true
 				- will
@@ -57,6 +64,7 @@
 				- {{embed ((65b931cd-72f0-4e06-a004-9b663dfe3f77))}}
 			- core & decreasing ([source](((386ec37c-3634-4c15-b5f2-9dc4b4800c0c))))
 			  id:: 65b93338-375e-4203-a338-3451e0c793f8
+			  collapsed:: true
 				- would
 				- may
 				- should
@@ -64,6 +72,7 @@
 				- shall
 			- peripheral & increasing ([source](((f10ad767-e2a5-45c6-b405-985dd2a6fa04))))
 			  id:: 14876ed2-5361-4901-b68d-8cb7f9b1d174
+			  collapsed:: true
 				- BE going to
 				- have to
 				- got to
@@ -75,7 +84,7 @@
 		  collapsed:: true
 			- ((735f231c-9205-408e-8d58-9e4502015c6b))
 	- [[practice]]
-		- collaborative [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoH3H5Epize61oTeZ
+		- collaborative [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoi84ilIjaZZQfHzZ
 		- study the rise and fall of modal verbs in the [[COHA]]
 			- use queries to search for the following modal verbs
 			  collapsed:: true
