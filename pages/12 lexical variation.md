@@ -36,11 +36,10 @@
 			- ((65428396-7109-446e-b087-79b3a398b383))
 - [[lexical change]] and [[lexical variation]] in English [[modal verbs]] ([[Hilpert2015Grammatical]])
 	- theory and previous work
-	  collapsed:: true
 		- ((87e6447a-b496-42b2-b94c-1ab8281ebecc))
 		- core and peripheral modals
+		  collapsed:: true
 			- core modals
-			  collapsed:: true
 				- will
 				- would
 				- can
@@ -51,12 +50,12 @@
 				- should
 				- must
 			- peripheral modals
-			  collapsed:: true
 				- BE going to
 				- have to
 				- got to
 				- need to
 		- modals with changes in frequency over time
+		  collapsed:: true
 			- ((65b931b6-80a0-4645-be43-1709c001b23e))
 			- ((40c5c6c1-8a97-4cd0-97f5-dc0d3f32b53b))
 			- corpus data
@@ -86,57 +85,46 @@
 	- [[practice]]
 		- collaborative [[Microsoft Excel]] spreadsheet: https://1drv.ms/x/s!AvkgNVl9yS6aoi84ilIjaZZQfHzZ
 		- study the rise and fall of modal verbs in the [[COHA]]
+		  collapsed:: true
 			- use queries to search for the following modal verbs
 			  collapsed:: true
 				- ((65b93338-375e-4203-a338-3451e0c793f8))
 					- *would*
-					  collapsed:: true
 						- `would *_vv`
 					- *may*
-					  collapsed:: true
 						- `may *_vv`
 					- *should*
-					  collapsed:: true
 						- `should *_vv`
 					- *must*
-					  collapsed:: true
 						- `must *_vv`
 					- *shall*
-					  collapsed:: true
 						- `shall *_vv`
 				- ((14876ed2-5361-4901-b68d-8cb7f9b1d174))
 					- be going to
-					  collapsed:: true
 						- `BE going to *_vv`
 					- have to
-					  collapsed:: true
 						- `HAVE to *_vv`
 					- got to
-					  collapsed:: true
 						- `got to *_vv`
 					- need to
-					  collapsed:: true
 						- `NEED to *_vv`
 			- determine their absolute and relative [frequencies]([[frequency]]) [over time]([[diachronic]])
 			  collapsed:: true
-				- in the decades
-				  collapsed:: true
+				- in these time intervals
 					- 1850
 					- 1900
 					- 1950
 					- 2000
 				- screenshot
-				  collapsed:: true
 					- ![image.png](../assets/image_1706638923257_0.png)
 			- investigate changes in [[frequency]] [over time]([[diachronic]]) by using [pivot tables]([[Microsoft Excel/pivot table]]) and [bar charts]([[bar chart]])
 			  collapsed:: true
 				- investigate whether these individual words show frequency changes over time
-				  collapsed:: true
 					- ![image.png](../assets/image_1706639087914_0.png)
 				- investigate whether the groups of [core](((65b93338-375e-4203-a338-3451e0c793f8))) and [peripheral](((14876ed2-5361-4901-b68d-8cb7f9b1d174))) modal verbs show frequency changes on aggregate
-				  collapsed:: true
 					- ![image.png](../assets/image_1706639183459_0.png)
 		- investigate whether these modals show preferences for specific text types using the [[COCA]]
+		  collapsed:: true
 			- gather text type data
 			  collapsed:: true
 				- ![image.png](../assets/image_1706639702528_0.png)
