@@ -12,4 +12,4 @@ id:: 654237e2-bca6-4067-8402-044fd4cf7368
 | 19.01. | [[09 Lexical change]] |
 | 26.01. | [[10 Lexical innovation]] |
 | 02.02. | [[12 Lexical variation]]                  |
-| 09.02. | 13 Re-cap                            |
+| 09.02. | [[13 Lexical variation and wrap-up]] |

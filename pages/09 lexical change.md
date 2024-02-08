@@ -183,6 +183,7 @@
 				- *epitaph* vs *epithet*
 			- confusion labeled ‘malapropism’
 - types of lexical change
+  collapsed:: true
 	- change in usage frequency
 		- increases: [[lexical innovation]]
 		  collapsed:: true
@@ -198,6 +199,7 @@
 		  [[Hamilton2016Diachronic]]
 		- {{embed ((659fd33f-0f0e-4bb0-b600-b34952c8a400))}}
 - [[lexical innovation]]
+  collapsed:: true
 	- the interplay of cultural and linguistic innovation
 	  id:: 65a6ae2e-094a-440c-96b5-72db6206a2e4
 		- society continually changes as new practices and products emerge (e.g. smartphones)
@@ -228,7 +230,7 @@
 			- ![image.png](../assets/image_1705428958906_0.png){:height 271, :width 285}
 			- *millenium bug*
 - [[practice]]: study [[lexical attrition]]
-  collapsed:: true
+  id:: 65a69cab-98de-495c-b5f1-6f41eafd378b
 	- get a sample of words that have become obsolete from the [[OED]]
 		- collect words using Advanced Search
 		  collapsed:: true

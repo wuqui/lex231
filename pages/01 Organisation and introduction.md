@@ -13,6 +13,7 @@
 	- course description
 		- {{embed [[course description]]}}
 	- course schedule
+id:: 65423651-94ee-4f13-b42c-0ad25adc85c0
 		- {{embed [[course schedule]]}}
 - introduction to lexicology and lexicography
 	- What is lexicology about?
@@ -28,15 +29,18 @@
 						  |   |         | *drunk*    |
 						  |---|---------|------------|
 						  | 2 | DRINK$^n$ | *drink*    |
+			- [Model of the linguistic sign]([[Model of the Linguistic Sign]]) ([[deSaussure1916Cours]])
+			  id:: 6544372d-50ea-40d7-8082-30e0057fd539
+			  collapsed:: true
 				- three notions of 'words'
-					- [[types]]
-						- [lexemes]([[lexemes]]), lexical items a listed in the dictionary, abstract units of the lexicon: WORK$^v$
+				  id:: 6544372d-65f1-4ae5-ae13-4ae412241703
+				  collapsed:: true
+					- [[types]]/[lexemes]([[lexemes]])
+						- lexical items a listed in the dictionary, abstract units of the lexicon: WORK$^v$
 					- [[word-forms]]
 						- [inflectional variants]([[inflection]]) of lexemes: *(he) works*, *(he) worked*
 					- [[tokens]]
 						- concrete instantiations of types in running text, commonly delimited by whitespace
-			- [Model of the linguistic sign]([[Model of the Linguistic Sign]]) ([[deSaussure1916Cours]])
-			  id:: 6544372d-50ea-40d7-8082-30e0057fd539
 				- ![image.png](../assets/image_1698947928175_0.png)
 				- types of signs ([[Keller1994Sprachwandel]])
 					- indices: relation of naturalness

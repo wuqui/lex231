@@ -156,9 +156,9 @@
 					- [EndNote](https://endnote.com/)
 					- [Mendeley](https://www.mendeley.com/)
 	- structure
+	  id:: 659fd122-b661-47ec-829d-bdb17e203771
 	  collapsed:: true
 		- Introduction
-		  collapsed:: true
 			- This section should provide an overview of the topic, the context, and the relevance of the research. It should also include the research question or hypothesis, and a brief summary of what the paper will cover.
 		- Theoretical Background
 		  collapsed:: true

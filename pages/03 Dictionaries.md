@@ -36,11 +36,13 @@
 		- Freudian slip ([[Bauer2022Introduction]])
 			- > > If you talk to someone about electricity, and then make them read the phrase *sham dock*, they might very well say *damn shock*, because of the prior activation of words associated with electricity; and the phenomenon of the Freudian slip depends upon a subject area being readily activated in the brain, and brought out invertently, whether because of a word related in meaning or related in pronunciation.
 - [dictionaries]([[dictionary]]) ([[Bauer2022Introduction]])
+  collapsed:: true
 	- What is a word?
 		- {{embed ((65491e9b-279c-4c64-8449-bb9887725e8b))}}
 		- {{embed ((65491fa0-8899-4988-b352-35206d19517c))}}
 	- [[definition]]
-		- > The term ‘dictionary’ is usually restricted to real-world dictionaries that appear in print and online. Dictionaries provide a list of words of whatever language they deal with — in our case, English — and then give a certain amount of information about each of them. Dictionaries tend to have two functions, which may, on occasions, conflict with each other:
+		- id:: 654a5d4c-eff8-4a6a-affd-a9bfbbfdeec2
+		  > The term ‘dictionary’ is usually restricted to real-world dictionaries that appear in print and online. Dictionaries provide a list of words of whatever language they deal with — in our case, English — and then give a certain amount of information about each of them. Dictionaries tend to have two functions, which may, on occasions, conflict with each other:
 			- > to describe the language as it is,
 			- > and to provide an influence for establishing and maintaining the standard form of the language.
 	- [[descriptivism]] vs [[prescriptivism]]
@@ -60,6 +62,7 @@
 	  id:: 654a60d8-23e3-4ff7-bef4-2456ff047eb3
 		- example: *bro* in the [[OED]]
 			- ![image.png](../assets/image_1699480538583_0.png)
+			  id:: 654c03d9-6de6-4f2e-a4cf-02d8b723d187
 		- spelling
 			- *judgement* vs *judgment*
 		- pronunciation
@@ -71,9 +74,9 @@
 		- overview
 		- [[Urban Dictionary]]
 		  id:: 65553556-d2aa-4094-af92-66005f5e9701
-		  collapsed:: true
 			- https://www.urbandictionary.com/
 			- ![urban-dictionary-neologism.png](../assets/urban-dictionary-neologism_1700084367030_0.png)
+			  id:: 65553a8d-b9eb-4573-b785-83bc7df6c18e
 		- [[Wiktionary]]
 			- https://www.wiktionary.org/
 			- ![wiktionary.png](../assets/wiktionary_1700084621385_0.png)
@@ -91,13 +94,16 @@
 			- ![image.png](../assets/image_1700085431951_0.png)
 			- advanced search
 				- ![image.png](../assets/image_1700086248403_0.png)
+				  id:: 655541e7-f6ff-466a-9eca-50eb8a688807
 - [[practice]]: investigating lexical innovation since 2000 using the [[OED]]
   id:: 65553569-77c5-4153-a348-ce7175770b70
+  collapsed:: true
 	- use the advanced search to find all lexemes whose first use is after 2000
 	  collapsed:: true
 		- ![image.png](../assets/image_1700133799936_0.png)
 	- export the results to a `csv` file
 	- analyse the exported file in [[Microsoft Excel]]
+	  id:: 6555fbbb-8a5e-48f2-9250-072707d17a95
 		- questions
 			- Which word-formation processes are most frequent?
 			- Which word classes are most frequent?

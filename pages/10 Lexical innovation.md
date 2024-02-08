@@ -26,6 +26,7 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1706202537985_0.png)
 - [[operationalization]]
+  collapsed:: true
 	- [[frequency]] as an indicator for [[entrenchment]] and [conventionality]([[conventionalization]]) ([[Stefanowitsch2017Corpusbased]])
 	  collapsed:: true
 		- [[corpus-as-input]]: language used in corpora represents potential [[exposure]] to speakers
@@ -69,10 +70,8 @@
 - [[practice]]
 	- study lexical innovations in corpora
 		- using the case study words from [[Würschinger2021Social]],
-		  collapsed:: true
 			- ((d2cf2578-ed9f-4cc0-826e-fcf1255ac7c0))
 		- for each of these words collect data from the [[NOW]] corpus about
-		  collapsed:: true
 			- their total usage frequency (absolute and relative)
 			- whether they are increasing or decreasing in frequency/conventionality over time
 			- compare the data from the NOW corpus to the results in [[Würschinger2021Social]]

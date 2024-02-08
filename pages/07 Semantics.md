@@ -1,12 +1,10 @@
 - semantic fundamentals
-  collapsed:: true
 	- model of the linguistic sign
 	  collapsed:: true
 		- {{embed ((6544372d-50ea-40d7-8082-30e0057fd539))}}
 	- [[lexical relations]]
 	  collapsed:: true
 		- overview
-		  collapsed:: true
 			- ![semantic-relations-overview.png](../assets/semantic-relations-overview_1698949387136_0.png)
 		- paradigmatic
 			- definition
@@ -82,15 +80,14 @@
 - [[practice]]: studying [[semantics]] in the [[COCA]]
   id:: 657b19fe-cbfb-4914-b620-c87af6ff0101
 	- differences between [clippings]([[clipping]]) and source forms ([[Hilpert2023Meaning]])
-	  collapsed:: true
 		- task
 			- Which of the [pairs of blends](((645a2870-9ab6-4a81-941d-44fe6a3c121a))) exhibits a difference in meaning?
 			- What is the nature of the semantic variation between source forms and clipped forms?
 		- use [[collocations]] to analyse meaning
 			- ![image.png](../assets/image_1703241715733_0.png)
 			- ![image.png](../assets/image_1702566403073_0.png)
+			  id:: 657b1a01-7545-42a5-818d-812929bcd02a
 	- differences in meaning between text types
-	  collapsed:: true
 		- example: *problem*
 			- ![image.png](../assets/image_1704971598749_0.png){:height 461, :width 380}
 			- ![image.png](../assets/image_1704971645915_0.png)
