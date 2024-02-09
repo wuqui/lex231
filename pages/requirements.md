@@ -5,10 +5,8 @@
 	  collapsed:: true
 		- {{embed [[term paper/short]]}}
 	- 6 ECTS:
-	  collapsed:: true
 		- {{embed [[term paper/long]]}}
 	- 9 ECTS: [[Modulprüfung]]
 	  id:: 65425def-a071-467f-81b0-e221b726abcc
-	  collapsed:: true
 		- {{embed [[presentation]]}}
 		- {{embed [[term paper/long]]}}

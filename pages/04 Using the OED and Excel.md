@@ -7,7 +7,8 @@
 		- {{embed ((65553565-f800-44b7-b53f-b63eaa68c827))}}
 - data analysis using [[Microsoft Excel]]
 	- general recommendations
-		- tutorials: https://sfla.ch/tutorials/excel/
+		- tutorials by Susanne Flach [on YouTube]({{video https://www.youtube.com/watch?v=D0VtLaz-iYs&list=PLIZN-827NSINRq4EtjXeoPlh-62akkXWa}})
+		-
 	- {{embed ((65553569-77c5-4153-a348-ce7175770b70))}}
 	- [[practice]]: Which word-formation were used the most since 1800? ([[OED]])
 	  id:: 655fe460-f73c-466f-8bd5-9b79551c3ddc

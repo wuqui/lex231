@@ -1,4 +1,5 @@
-- recorded presentation
+- recorded presentation: audio + slides ( + video)
+- **length**: 9–11 min
 - **topic**: your research project for the [[term paper/long]]
 - **due**: [[Mon, 26.02.2024]]
 - → **feedback** for finishing your [[term paper/long]]

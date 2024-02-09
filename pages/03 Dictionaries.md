@@ -1,5 +1,4 @@
 - the lexicon
-  collapsed:: true
 	- two senses of *lexicon*
 		- {{embed ((6544372d-dec9-47cb-ab66-644834726315))}}
 	- objective of lexicology
@@ -36,7 +35,6 @@
 		- Freudian slip ([[Bauer2022Introduction]])
 			- > > If you talk to someone about electricity, and then make them read the phrase *sham dock*, they might very well say *damn shock*, because of the prior activation of words associated with electricity; and the phenomenon of the Freudian slip depends upon a subject area being readily activated in the brain, and brought out invertently, whether because of a word related in meaning or related in pronunciation.
 - [dictionaries]([[dictionary]]) ([[Bauer2022Introduction]])
-  collapsed:: true
 	- What is a word?
 		- {{embed ((65491e9b-279c-4c64-8449-bb9887725e8b))}}
 		- {{embed ((65491fa0-8899-4988-b352-35206d19517c))}}
@@ -82,7 +80,6 @@
 			- ![wiktionary.png](../assets/wiktionary_1700084621385_0.png)
 			  id:: 65553b8c-d0ac-457e-ac10-ae8d639c476a
 			- [[WIND]]
-			  collapsed:: true
 				- [[Sajous2020ENGLAWI]]
 					- ((65553c13-f791-43fa-8be1-26fe6638f94c))
 				- http://redac.univ-tlse2.fr/lexiques/wind.html
@@ -97,9 +94,7 @@
 				  id:: 655541e7-f6ff-466a-9eca-50eb8a688807
 - [[practice]]: investigating lexical innovation since 2000 using the [[OED]]
   id:: 65553569-77c5-4153-a348-ce7175770b70
-  collapsed:: true
 	- use the advanced search to find all lexemes whose first use is after 2000
-	  collapsed:: true
 		- ![image.png](../assets/image_1700133799936_0.png)
 	- export the results to a `csv` file
 	- analyse the exported file in [[Microsoft Excel]]
