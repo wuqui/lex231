@@ -1,2 +1,7 @@
-- $\approx$ 10–12 pages
-- **due**: [[Mon, 18.03.2024]]
+- deadline: [[Mon, 18.03.2024]]
+- length: $\approx$ 10–12 pages
+	- check your Studien-/Prüfungsordnung for exact specification
+- submission
+	- via email to [q.wuerschinger@lmu.de](mailto:q.wuerschinger@lmu.de)
+	- in `pdf` format
+	- including plagiarism statement
